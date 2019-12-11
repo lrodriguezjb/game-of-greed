@@ -1,7 +1,7 @@
 # Game of Greed
 
 **Author**: Leandro Rodriguez
-**Version**: 1.0.0
+**Version**: 1.1.0
 
 ## Overview
 
@@ -19,6 +19,7 @@ A user must Install Python in his/her system User should download game_of_greed.
 
 ## Change Log
 
+12-09-2019 20:00 - Prompts and Scoring Function Active.
+12-10-2019 19:00 - Reorganized Code and Dice Roll.
 
-12-08-2019 20:00 - Prompts and Scoring Function Active.
 -->
